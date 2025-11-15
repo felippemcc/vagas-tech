@@ -92,7 +92,7 @@ Este projeto está sob a licença MIT.
 
 **Felippe Marques**
 - GitHub: [@felippemcc](https://github.com/felippemcc)
-- LinkedIn: [Seu LinkedIn]
+- LinkedIn: [Felippe Moura](https://www.linkedin.com/in/felippemoura/)
 
 ---
 
