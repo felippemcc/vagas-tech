@@ -19,12 +19,6 @@ Agregador de vagas de tecnologia com análise automática de skills e visualiza�
 ### Teste Online
 [vagas-tech.streamlit.app](https://vagas-tech.streamlit.app/)
 
-1. **Clone o repositório**
-```bash
-[vagas-tech.streamlit.app](https://vagas-tech.streamlit.app/)
-cd vagas-tech
-```
-
 ### Instalação Local
 
 1. **Clone o repositório**
