@@ -16,6 +16,14 @@ Agregador de vagas de tecnologia com análise automática de skills e visualiza�
 - 🎨 Interface web interativa
 
 ## 🚀 Como Usar
+### Teste Online
+[vagas-tech.streamlit.app](https://vagas-tech.streamlit.app/)
+
+1. **Clone o repositório**
+```bash
+[vagas-tech.streamlit.app](https://vagas-tech.streamlit.app/)
+cd vagas-tech
+```
 
 ### Instalação Local
 
@@ -90,7 +98,7 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-**Felippe Marques**
+**Felippe Moura**
 - GitHub: [@felippemcc](https://github.com/felippemcc)
 - LinkedIn: [Felippe Moura](https://www.linkedin.com/in/felippemoura/)
 
